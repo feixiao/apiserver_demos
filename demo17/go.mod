@@ -31,7 +31,6 @@ require (
 	apiserver/service v0.0.0
 	apiserver/util v0.0.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	github.com/gin-contrib/pprof v1.2.0 // indirect
 	github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3 // indirect
 	github.com/gin-gonic/gin v1.3.0
 	github.com/go-playground/locales v0.12.1 // indirect
@@ -46,7 +45,6 @@ require (
 	github.com/shirou/gopsutil v2.18.12+incompatible // indirect
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.3.2
-	github.com/swaggo/gin-swagger v1.1.0 // indirect
 	github.com/teris-io/shortid v0.0.0-20171029131806-771a37caa5cf // indirect
 	github.com/willf/pad v0.0.0-20190207183901-eccfe5d84172 // indirect
 	gopkg.in/go-playground/validator.v9 v9.28.0 // indirect
