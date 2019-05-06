@@ -30,9 +30,11 @@ require (
 	apiserver/router v0.0.0
 	apiserver/service v0.0.0
 	apiserver/util v0.0.0
+	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3 // indirect
 	github.com/gin-gonic/gin v1.3.0
+	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-playground/locales v0.12.1 // indirect
 	github.com/go-playground/universal-translator v0.16.0 // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
